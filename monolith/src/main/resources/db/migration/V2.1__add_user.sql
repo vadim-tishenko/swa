@@ -1,0 +1,1 @@
+INSERT INTO USERS (LOGIN) VALUES ( 'adm.tutorialspoint.com');
